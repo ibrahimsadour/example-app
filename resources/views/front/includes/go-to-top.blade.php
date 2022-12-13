@@ -1,0 +1,1 @@
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body"> <span class="tie-icon-angle-up"></span> <span class="screen-reader-text">زر الذهاب إلى الأعلى</span> </a> 
